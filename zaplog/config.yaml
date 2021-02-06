@@ -1,0 +1,9 @@
+app:
+  name: goexample
+  mode: debug
+log:
+  level: "info"
+  filename: "./logs/ih.log"
+  max_size: 100
+  max_age: 30
+  max_backups: 7
